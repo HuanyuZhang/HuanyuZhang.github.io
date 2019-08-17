@@ -1,6 +1,6 @@
 ---
 title: "Differentially Private Testing of Identity and Closeness of Discrete Distributions"
-author: aaaa,aaaa,aaa,aaa
+authors: aaaa,aaaa,aaa,aaa
 collection: publications
 permalink: /publication/2018-paper-title-number-1
 date: 2018-12-03
