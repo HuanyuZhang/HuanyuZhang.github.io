@@ -18,8 +18,8 @@ Education
 Work experience
 ======
 * Summer 2019: Research Intern
-  * Microsoft Research, Redmond
-  * Duties included: 
+  * Microsoft Research, Redmond, WA, US
+  * Differential Privacy, Statistical Machine Learning, NLP
   * Supervisor: Janardhan Kulkarni
 
 Publications
