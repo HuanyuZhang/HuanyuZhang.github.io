@@ -1,7 +1,7 @@
 ---
-title: "Data Science for Engineers (ECE 2720), Teaching Assistant"
+title: "Data Science for Engineers (ECE 2720) | Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2019-spring-teaching-2
 venue: "Cornell, ECE"
 date: 2019-01-22
