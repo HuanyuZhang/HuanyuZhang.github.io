@@ -1,9 +1,9 @@
 ---
-title: "Data Science for Engineers (ECE 2720) | Teaching Assistant"
+title: "Data Science for Engineers (ECE 2720)"
 collection: teaching
-type: "Undergraduate course"
+type: "Prof. Aaron Wagner"
 permalink: /teaching/2019-spring-teaching-2
-venue: "Cornell University, ECE"
+venue: "Cornell University"
 date: 2019-01-22
 location: "Ithaca, US"
 ---
