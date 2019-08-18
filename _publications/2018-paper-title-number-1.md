@@ -6,6 +6,7 @@ permalink: /publication/2018-paper-title-number-1
 date: 2018-12-03
 venue: 'NeurIPS'
 ---
+Jayadev Acharya, Ziteng Sun, Huanyu Zhang
 
 Spotlight Presentation at NeurIPS 2018 (4% of all submissions)
  
