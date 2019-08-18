@@ -7,4 +7,5 @@ venue: 'AISTATS'
 ---
 
 Jayadev Acharya, Ziteng Sun, Huanyu Zhang
+
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
