@@ -1,5 +1,6 @@
 ---
 title: "INSPECTRE: Privately Estimating the Unseen"
+authors: "Jayadev Acharya, Gautam Kamath, Ziteng Sun, Huanyu Zhang"
 collection: publications
 permalink: /publication/2018-07-10-paper-title-number-2
 date: 2018-07-10
