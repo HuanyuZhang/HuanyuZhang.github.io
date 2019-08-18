@@ -7,3 +7,5 @@ venue: "Cornell University"
 date: 2018-01-15
 location: "Ithaca, US"
 ---
+[Course website](https://people.ece.cornell.edu/acharya/teaching/ece4950s18/)
+
