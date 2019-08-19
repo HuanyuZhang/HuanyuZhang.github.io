@@ -4,8 +4,7 @@ authors: "Jayadev Acharya, Ziteng Sun, Huanyu Zhang"
 collection: publications
 permalink: /publication/2018-12-03-paper-title-number-1
 date: 2018-12-03
-venue: 'NeurIPS'
-emphasis: "Spotlight Presentation at NeurIPS 2018 (4% of all submissions)."
+more: "Spotlight Presentation at NeurIPS 2018 (4% of all submissions)."
 ---
 
 
