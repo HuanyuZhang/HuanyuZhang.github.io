@@ -1,12 +1,12 @@
 ---
 title: "Hadamard Response: Estimating Distributions Privately, Efficiently, and with Little Communication"
 collection: publications
-authors: "Jayadev Acharya, Ziteng Sun, Huanyu Zhang"
+authors: "Jayadev Acharya, Ziteng Sun, <b>Huanyu Zhang</b>"
 permalink: /publication/2019-04-18-paper-title-number-3
 date: 2019-04-18
 venue: 'AISTATS'
 ---
 
-Jayadev Acharya, Ziteng Sun, Huanyu Zhang
+Jayadev Acharya, Ziteng Sun, **Huanyu Zhang**
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://proceedings.mlr.press/v89/acharya19a/acharya19a.pdf)
