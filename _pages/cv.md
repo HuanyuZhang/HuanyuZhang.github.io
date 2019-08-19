@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Electronics Engineering, Peking University, 2016
-* M.S. in Eletrical and Computer Engineering, Cornell University, 2014
+* M.S. in Eletrical and Computer Engineering, Cornell University, 2019
 * Ph.D in Eletrical and Computer Engineerin, Cornell University, 2021 (expected)
 
 Work experience
