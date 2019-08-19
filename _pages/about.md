@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth year Ph.D. student at the school of Electrical and Computer Engineering at Cornell University, where I am extremely fortunate to be advised by [Prof. Jayadev Acharya](https://people.ece.cornell.edu/acharya/). 
+I am a fourth year Ph.D. student at the school of [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece) at [Cornell University](https://www.cornell.edu/), where I am extremely fortunate to be advised by [Prof. Jayadev Acharya](https://people.ece.cornell.edu/acharya/). 
 
-My research interest lies broadly in machine learning and algorithms, especially in the areas of privacy-preserving data analysis. Specifically, I am interested in studying the tradeoffs between privacy and other different resources when performing fundamental statistical tasks.
+My research interest lies broadly in machine learning and algorithms, especially in the areas of privacy-preserving data analysis. Specifically, I am interested in studying the tradeoffs between privacy and other resources when performing fundamental statistical tasks.
 
-I received my Bachelor’s Degree in Peking University. My undergraduate research advisor is Prof. Lingyang Song.
+Before Cornell, I spent four wonderful years at [Peking University](http://english.pku.edu.cn/), graduating in 2016 with a degree in [Electronics Engineering](http://eecs.pku.edu.cn/Home/HOME.htm) and [Economics](http://en.nsd.pku.edu.cn/). At Peking University, I was extremely lucky to be advised by [Prof. Lingyang Song](http://net.pku.edu.cn/songly/index.html).
 
 <!---
 My research interest lies broadly in machine learning, algorithmic statistics and information theory. I am particularly interested in studying the tradeoffs between different resources in modern data science, including samples, communication, memory, computation and so on. In the past, I spent four wonderful years at Tsinghua University, where I got a Bachelor of Science degree in Electronic Engineering.
