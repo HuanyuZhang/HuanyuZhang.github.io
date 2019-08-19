@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth year Ph.D. student at the school of Electrical and Computer Engineering at Cornell University, where I am extremely fortunate to be advised by Prof. Jayadev Acharya. 
+I am a fourth year Ph.D. student at the school of Electrical and Computer Engineering at Cornell University, where I am extremely fortunate to be advised by [Prof. Jayadev Acharya](https://people.ece.cornell.edu/acharya/). 
+
+My research interest lies broadly in machine learning and algorithms, especially in the areas of privacy-preserving data analysis. Specifically, I am interested in studying the tradeoffs between privacy and other different resources when performing fundamental statistical tasks.
 
 I received my Bachelor’s Degree in Peking University. My undergraduate research advisor is Prof. Lingyang Song.
 
