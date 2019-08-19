@@ -8,6 +8,6 @@ venue: 'ICML'
 ---
 
 
-Jayadev Acharya, Gautam Kamath, Ziteng Sun, **Huanyu Zhang** 
+[Jayadev Acharya](https://people.ece.cornell.edu/acharya/), [Gautam Kamath](www.gautamkamath.com/), [Ziteng Sun](http://www.zitengsun.com/), **Huanyu Zhang** 
 
 [Download paper here](http://proceedings.mlr.press/v80/acharya18a/acharya18a.pdf)
