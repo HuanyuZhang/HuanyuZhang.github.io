@@ -7,4 +7,4 @@ date: 2019-11-11
 venue: "TPDP"
 ---
 
-Gautam Kamath, Janardhan Kulkarni, Zhiwei Steven Wu, **Huanyu Zhang**
+[Gautam Kamath](http://www.gautamkamath.com/), [Janardhan Kulkarni](https://users.cs.duke.edu/~kulkarni/), [Zhiwei Steven Wu](https://zstevenwu.com/), **Huanyu Zhang**
