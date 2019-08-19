@@ -9,7 +9,7 @@ venue: "NeurIPS"
 ---
 
 
-Jayadev Acharya, Ziteng Sun, **Huanyu Zhang**
+[Jayadev Acharya](https://people.ece.cornell.edu/acharya/), [Ziteng Sun](http://www.zitengsun.com/), **Huanyu Zhang**
 
 **Spotlight Presentation** at **NeurIPS 2018** (4% of all submissions).
 
