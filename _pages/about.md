@@ -11,9 +11,9 @@ I am a fourth year Ph.D. student at the school of [Electrical and Computer Engin
 
 My research interest lies broadly in machine learning and algorithms, especially in the areas of privacy-preserving data analysis. Specifically, I am interested in studying the tradeoffs between privacy and other resources when performing fundamental statistical tasks.
 
-This summer I am working as a Research Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), where my supervisor is [Janardhan Kulkarni](https://users.cs.duke.edu/~kulkarni/).
+This summer I am working as a Research Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), where I am very fortunate to work with [Janardhan Kulkarni](https://users.cs.duke.edu/~kulkarni/).
 
-Before Cornell, I spent four wonderful years at [Peking University](http://english.pku.edu.cn/), graduating in 2016 with a degree in [Electronics Engineering](http://eecs.pku.edu.cn/Home/HOME.htm) and [Economics](http://en.nsd.pku.edu.cn/). At Peking University, I was extremely lucky to be advised by [Prof. Lingyang Song](http://net.pku.edu.cn/songly/index.html).
+I spent four wonderful years at [Peking University](http://english.pku.edu.cn/) before Cornell, graduating in 2016 with a degree in [Electronics Engineering](http://eecs.pku.edu.cn/Home/HOME.htm) and [Economics](http://en.nsd.pku.edu.cn/). At Peking University, I was extremely lucky to be advised by [Prof. Lingyang Song](http://net.pku.edu.cn/songly/index.html).
 
 <!---
 My research interest lies broadly in machine learning, algorithmic statistics and information theory. I am particularly interested in studying the tradeoffs between different resources in modern data science, including samples, communication, memory, computation and so on. In the past, I spent four wonderful years at Tsinghua University, where I got a Bachelor of Science degree in Electronic Engineering.
