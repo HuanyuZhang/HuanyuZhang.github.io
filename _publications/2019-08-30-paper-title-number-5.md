@@ -7,4 +7,4 @@ date: 2019-08-30
 ---
 
 
-[Di Wang*](http://www.acsu.buffalo.edu/~dwang45/), <b>Huanyu Zhang*<b>, [Marco Gaboardi](http://www.acsu.buffalo.edu/~gaboardi/) and [Jinhui Xu](https://cse.buffalo.edu/~jinhui/)
+[Di Wang*](http://www.acsu.buffalo.edu/~dwang45/), <b>Huanyu Zhang*<b>, [Marco Gaboardi](http://www.acsu.buffalo.edu/~gaboardi/) and [Jinhui Xu](https://cse.buffalo.edu/~jinhui/) (* equal contribution)
