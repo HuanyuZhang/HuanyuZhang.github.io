@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-All my papers have alphabetical author order.
+Unless specified, the papers have alphabetical author order. * indicates equal contribution.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
