@@ -5,6 +5,7 @@ collection: publications
 permalink: /publication/2018-12-03-paper-title-number-1
 date: 2018-12-03
 more: "<b>Spotlight Presentation</b> at <b>NeurIPS 2018</b> (4% of all submissions)."
+manu: "Accepted by"
 venue: "NeurIPS"
 ---
 
