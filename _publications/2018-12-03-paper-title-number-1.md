@@ -1,12 +1,12 @@
 ---
 title: "Differentially Private Testing of Identity and Closeness of Discrete Distributions"
-authors: "Jayadev Acharya, Ziteng Sun, <b>Huanyu Zhang</b>, accepted by <b>NeurIPS, 2018</b>"
+authors: "Jayadev Acharya, Ziteng Sun, <b>Huanyu ZZhang</b>, accepted by <b>NeurIPS, 2018</b>"
 collection: publications
 permalink: /publication/2018-12-03-paper-title-number-1
 date: 2018-12-03
-more: "<b>Spotlight Presentation</b> at <b>NeurIPS 2018</b> (4% of all submissions)."
 manu: "Accepted by"
 venue: "NeurIPS"
+more: "<b>Spotlight Presentation</b> at <b>NeurIPS 2018</b> (4% of all submissions)."
 ---
 
 
