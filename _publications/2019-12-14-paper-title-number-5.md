@@ -1,6 +1,6 @@
 ---
 title: "Estimating Smooth GLM in Non-interactive Local Differential Privacy Model with Public Unlabeled Data"
-authors: "Di Wang, <b>Huanyu Zhang<b>, Marco Gaboardi and Jinhui Xu, accepted by <b>PriML 2019</b>"
+authors: "Di Wang, <b>Huanyu ZZhang<b>, Marco Gaboardi and Jinhui Xu, accepted by <b>PriML 2019</b>"
 collection: publications
 permalink: /publication/2019-12-14-paper-title-number-5
 date: 2019-12-14
