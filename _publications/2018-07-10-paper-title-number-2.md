@@ -4,6 +4,7 @@ authors: "Jayadev Acharya, Gautam Kamath, Ziteng Sun, <b>Huanyu Zhang</b>, accep
 collection: publications
 permalink: /publication/2018-07-10-paper-title-number-2
 date: 2018-07-10
+manu: "Accepted by"
 venue: 'ICML'
 ---
 
