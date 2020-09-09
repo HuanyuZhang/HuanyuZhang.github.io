@@ -8,4 +8,4 @@ venue: "COLT"
 ---
 
 
-[Sivakanth Gopi](https://www.microsoft.com/en-us/research/people/sigopi/), [Gautam Kamath](http://www.gautamkamath.com), [Janardhan Kulkarni](https://www.microsoft.com/en-us/research/people/jakul/), [Aleksandar Nikolov](http://www.cs.toronto.edu/~anikolov/), [Zhiwei Steven Wu](https://zstevenwu.com), <b>Huanyu Zhang<b>
+[Sivakanth Gopi](https://www.microsoft.com/en-us/research/people/sigopi/), [Gautam Kamath](http://www.gautamkamath.com), [Janardhan Kulkarni](https://www.microsoft.com/en-us/research/people/jakul/), [Aleksandar Nikolov](http://www.cs.toronto.edu/~anikolov/), [Zhiwei Steven Wu](https://zstevenwu.com), <b>Huanyu Zhang</b>
