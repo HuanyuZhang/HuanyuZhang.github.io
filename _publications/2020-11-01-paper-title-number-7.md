@@ -8,4 +8,4 @@ venue: "TPDP"
 ---
 
 
-[Jayadev Acharya](https://people.ece.cornell.edu/acharya/), [Ziteng Sun](http://www.zitengsun.com/), **Huanyu Zhang**
+[Jayadev Acharya](https://people.ece.cornell.edu/acharya/), [Ziteng Sun](http://www.zitengsun.com/), <b>Huanyu Zhang</b>
