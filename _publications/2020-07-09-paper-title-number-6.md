@@ -1,6 +1,6 @@
 ---
 title: "Locally Private Hypothesis Selection"
-authors: "Sivakanth Gopi, Gautam Kamath, Janardhan Kulkarni, Aleksandar Nikolov, Zhiwei Steven Wu,<b>Huanyu Zhang</b>, accepted by <b>COLT 2020</b>"
+authors: "Sivakanth Gopi, Gautam Kamath, Janardhan Kulkarni, Aleksandar Nikolov, Zhiwei Steven Wu, <b>Huanyu Zhang</b>, accepted by <b>COLT 2020</b>"
 collection: publications
 permalink: /publication/2020-07-09-paper-title-number-6
 date: 2020-07-09
