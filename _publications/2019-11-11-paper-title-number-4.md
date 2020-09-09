@@ -8,4 +8,4 @@ venue: "ICML"
 ---
 
 
-<b>Huanyu Zhang*<b>, [Gautam Kamath](http://www.gautamkamath.com/), [Janardhan Kulkarni](https://users.cs.duke.edu/~kulkarni/), [Zhiwei Steven Wu](https://zstevenwu.com/) (* first author)
+<b>Huanyu Zhang*<b>, [Gautam Kamath](http://www.gautamkamath.com/), [Janardhan Kulkarni](https://users.cs.duke.edu/~kulkarni/), [Zhiwei Steven Wu](https://zstevenwu.com/) (* the others are listed in alphabetical order.)
