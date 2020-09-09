@@ -1,10 +1,10 @@
 ---
-title: "Privately Learning Pairwise Markov Random Fields"
-authors: "Gautam Kamath, Janardhan Kulkarni, Zhiwei Steven Wu, <b>Huanyu Zhang</b>, accepted by <b> PriML 2019</b>"
+title: "Privately Learning Markov Random Fields"
+authors: "<b>Huanyu Zhang</b>, Gautam Kamath, Janardhan Kulkarni, Zhiwei Steven Wu, accepted by <b> ICML 2020</b>"
 collection:  publications
-permalink: /publication/2019-11-11-paper-title-number-4
-date: 2019-11-11
-venue: "TPDP"
+permalink: /publication/2020-07-01-paper-title-number-4
+date: 2020-07-01
+venue: "ICML"
 ---
 
-[Gautam Kamath](http://www.gautamkamath.com/), [Janardhan Kulkarni](https://users.cs.duke.edu/~kulkarni/), [Zhiwei Steven Wu](https://zstevenwu.com/), **Huanyu Zhang**
+**Huanyu Zhang**, [Gautam Kamath*](http://www.gautamkamath.com/), [Janardhan Kulkarni*](https://users.cs.duke.edu/~kulkarni/), [Zhiwei Steven Wu*](https://zstevenwu.com/) (* equal contribution)
