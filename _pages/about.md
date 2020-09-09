@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth year Ph.D. student at the school of [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece) at [Cornell University](https://www.cornell.edu/), where I am extremely fortunate to be advised by [Prof. Jayadev Acharya](https://people.ece.cornell.edu/acharya/). 
+I am a fifth year Ph.D. student at the school of [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece) at [Cornell University](https://www.cornell.edu/), where I am extremely fortunate to be advised by [Prof. Jayadev Acharya](https://people.ece.cornell.edu/acharya/). 
 
 My research interest lies broadly in machine learning and algorithms, especially in the areas of privacy-preserving data analysis. Specifically, I am interested in studying the tradeoffs between privacy and other resources when performing fundamental statistical tasks.
+
+This summer I am working as a Research Scientist Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), where I am extremely lucky to work with [Janardhan Kulkarni](https://users.cs.duke.edu/~kulkarni/).
 
 This summer I am working as a Research Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), where I am extremely lucky to work with [Janardhan Kulkarni](https://users.cs.duke.edu/~kulkarni/).
 
