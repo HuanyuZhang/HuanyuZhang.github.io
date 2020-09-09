@@ -7,4 +7,4 @@ date: 2020-07-01
 venue: "ICML"
 ---
 
-**Huanyu Zhang**, [Gautam Kamath*](http://www.gautamkamath.com/), [Janardhan Kulkarni*](https://users.cs.duke.edu/~kulkarni/), [Zhiwei Steven Wu*](https://zstevenwu.com/) (* equal contribution)
+<b>Huanyu Zhang<b>, [Gautam Kamath*](http://www.gautamkamath.com/), [Janardhan Kulkarni*](https://users.cs.duke.edu/~kulkarni/), [Zhiwei Steven Wu*](https://zstevenwu.com/) (* equal contribution)
