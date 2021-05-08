@@ -7,6 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a Research Scientist at Facebook. My research interest lies broadly in machine learning and algorithms, especially in the area of privacy-preserving data analysis. Specifically, I am interested in studying the trade-off between privacy and the other resources when performing fundamental statistical tasks.
+
+I obtained my Ph.D. in Electrical and Computer Engineering from [Cornell University](https://www.cornell.edu/), where I was extremely fortunate to be advised by [Prof. Jayadev Acharya](https://people.ece.cornell.edu/acharya/). 
+
+I had two internship experiences. In Summer 2020, I was working as a Research Scientist Intern at Facebook, where I was extremely lucky to work with [Meisam Hejazi Nia](http://www.hejazinia.com), and [Ilya Mironov](https://crypto.stanford.edu/~mironov/). In Summer 2019, I was working as a Research Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), where I was very fortunate to work with [Janardhan Kulkarni](https://users.cs.duke.edu/~kulkarni/).
+
+I spent four wonderful years at [Peking University](http://english.pku.edu.cn/) before Cornell, graduating in 2016 with a degree in [Electronics Engineering](http://eecs.pku.edu.cn/Home/HOME.htm) and [Economics](http://en.nsd.pku.edu.cn/). At Peking University, I was extremely lucky to be advised by [Prof. Lingyang Song](http://net.pku.edu.cn/songly/index.html).
+
+<!---
+
 I am a fifth year Ph.D. student at the school of [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece) at [Cornell University](https://www.cornell.edu/), where I am extremely fortunate to be advised by [Prof. Jayadev Acharya](https://people.ece.cornell.edu/acharya/). 
 
 My research interest lies broadly in machine learning and algorithms, especially in the areas of privacy-preserving data analysis. Specifically, I am interested in studying the tradeoffs between privacy and other resources when performing fundamental statistical tasks.
@@ -17,7 +27,6 @@ Last summer I was working as a Research Intern at [Microsoft Research](https://w
 
 I spent four wonderful years at [Peking University](http://english.pku.edu.cn/) before Cornell, graduating in 2016 with a degree in [Electronics Engineering](http://eecs.pku.edu.cn/Home/HOME.htm) and [Economics](http://en.nsd.pku.edu.cn/). At Peking University, I was very lucky to be advised by [Prof. Lingyang Song](http://net.pku.edu.cn/songly/index.html).
 
-<!---
 My research interest lies broadly in machine learning, algorithmic statistics and information theory. I am particularly interested in studying the tradeoffs between different resources in modern data science, including samples, communication, memory, computation and so on. In the past, I spent four wonderful years at Tsinghua University, where I got a Bachelor of Science degree in Electronic Engineering.
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
