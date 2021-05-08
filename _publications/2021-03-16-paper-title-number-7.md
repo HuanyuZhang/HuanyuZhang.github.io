@@ -9,3 +9,5 @@ venue: "ALT"
 
 
 [Jayadev Acharya](https://people.ece.cornell.edu/acharya/), [Ziteng Sun](http://www.zitengsun.com/), <b>Huanyu Zhang</b>
+
+[Download paper here](https://arxiv.org/abs/2004.06830)
