@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+e# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Huanyu Zhang"
   avatar           : "zhy.jpg"
-  bio              : "Ph.D. student at Cornell University"
-  location         : "Ithaca, NY, USA"
+  bio              : "Research Scientist at Facebook"
+  location         : "NYC, NY, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KQaf5-wAAAAJ&hl=en&oi=ao"
