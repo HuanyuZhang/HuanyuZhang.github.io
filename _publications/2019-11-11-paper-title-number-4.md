@@ -9,3 +9,5 @@ venue: "ICML"
 
 
 <b>Huanyu Zhang*<b>, [Gautam Kamath](http://www.gautamkamath.com/), [Janardhan Kulkarni](https://users.cs.duke.edu/~kulkarni/), [Zhiwei Steven Wu](https://zstevenwu.com/) (* the other authors are listed in alphabetical order)
+
+[Download paper here](https://arxiv.org/abs/2002.09463)
