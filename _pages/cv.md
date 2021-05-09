@@ -13,10 +13,18 @@ Education
 ======
 * B.S. in Electronics Engineering, Peking University, 2016
 * M.S. in Eletrical and Computer Engineering, Cornell University, 2019
-* Ph.D in Eletrical and Computer Engineerin, Cornell University, 2021 (expected)
+* Ph.D in Eletrical and Computer Engineerin, Cornell University, 2021
 
 Work experience
 ======
+* Research Scientist
+  * Facebook, New York, NY, US
+
+* Summer 2020: Research Scientist Intern
+  * Facebook, Menlo Park, CA, US
+  * Differential Privacy, Federated Learning
+  * Host: Meisam Hejazi Nia
+
 * Summer 2019: Research Intern
   * Microsoft Research, Redmond, WA, US
   * Differential Privacy, Statistical Machine Learning, NLP
